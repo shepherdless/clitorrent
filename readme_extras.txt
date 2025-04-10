@@ -1,0 +1,1 @@
+py3createtorrent -t best3 file_or_folder //just for reference when creating torrents from the command line
